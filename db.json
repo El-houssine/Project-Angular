@@ -1,0 +1,19 @@
+{
+    "Stagiaires": [
+        {
+            "id": 1,
+            "name":"houssine",
+            "ville": "BOUARFA"
+        },
+        {
+            "id": 2,
+            "name":"Anass",
+            "ville": "Taourirt"
+        },
+        {
+            "id": 3,
+            "name":"Soufiane",
+            "ville": "Oujda"
+        }
+    ]
+}
